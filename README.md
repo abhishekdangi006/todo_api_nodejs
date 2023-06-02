@@ -8,10 +8,7 @@
 # Express REST API
 
 Todo REST API complete with user accounts and authentication.
-This api was the final challenge from [Udemy Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview).<p>
-This was developed focus on [TDD](https://github.com/dwyl/learn-tdd).</p>
-
-Demo : https://node-rest-api-todo.glitch.me
+This api was the assessment test from the GURUJI ASTRO.<p>
 
 ## Buzzwords
 
@@ -29,7 +26,7 @@ Demo : https://node-rest-api-todo.glitch.me
 ## Instalation
 
 ```bash
-$ git clone git@github.com:AFGM/node-terminal-weather.git
+$ git clone git@[github.com:AFGM/node-terminal-weather.git](https://github.com/abhishekdangi006/todo_api_nodejs/edit/main/README.md)
 $ cd node-terminal-weather
 $ npm install
 ```
