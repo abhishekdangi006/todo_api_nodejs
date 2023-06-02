@@ -26,9 +26,10 @@ This api was the assessment test from the GURUJI ASTRO.<p>
 ## Instalation
 
 ```bash
-$ git clone git@[github.com:AFGM/node-terminal-weather.git](https://github.com/abhishekdangi006/todo_api_nodejs/edit/main/README.md)
-$ cd node-terminal-weather
+$ git clone https://github.com/abhishekdangi006/todo_api_nodejs
+$ cd todo_api_nodejs
 $ npm install
+$ npm start
 ```
 
 ## Usage
